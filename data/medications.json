@@ -1,0 +1,277 @@
+[
+  {
+    "name": "AREDSII",
+    "image": "images/AREDSII.webp",
+    "aliases": []
+  },
+  {
+    "name": "Atropine",
+    "image": "images/atropine.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Bactrim DS",
+    "image": "images/Bactrim DS.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Brimonidine",
+    "image": "images/Brimonidine.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Brimonidine Timolol (combigan)",
+    "image": "images/Brimonidine-Timolol (Combigan).avif",
+    "aliases": []
+  },
+  {
+    "name": "Brinzolamide Brimonidine (simbrinza)",
+    "image": "images/Brinzolamide-Brimonidine (Simbrinza).webp",
+    "aliases": []
+  },
+  {
+    "name": "Cequa",
+    "image": "images/Cequa.svg",
+    "aliases": []
+  },
+  {
+    "name": "Cyclopentolate 1% (cyclogyl)",
+    "image": "images/Cyclopentolate 1% (Cyclogyl).webp",
+    "aliases": []
+  },
+  {
+    "name": "Dexamethasone",
+    "image": "images/Dexamethasone.avif",
+    "aliases": []
+  },
+  {
+    "name": "Diamox",
+    "image": "images/diamox.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Difluprednate (durezol)",
+    "image": "images/difluprednate (Durezol).webp",
+    "aliases": []
+  },
+  {
+    "name": "Dorzolamide",
+    "image": "images/Dorzolamide.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Doxycycline",
+    "image": "images/doxycycline.webp",
+    "aliases": []
+  },
+  {
+    "name": "Erythromycin Ointment",
+    "image": "images/Erythromycin ointment.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Eysuvius",
+    "image": "images/Eysuvius.webp",
+    "aliases": []
+  },
+  {
+    "name": "Fluoromethalone (flarex)",
+    "image": "images/Fluoromethalone (Flarex).jpg",
+    "aliases": []
+  },
+  {
+    "name": "Ganciclovir (zirgan)",
+    "image": "images/Ganciclovir (Zirgan).webp",
+    "aliases": []
+  },
+  {
+    "name": "Ketorolac",
+    "image": "images/Ketorolac.avif",
+    "aliases": []
+  },
+  {
+    "name": "Ketotifen",
+    "image": "images/ketotifen.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Latanoprost",
+    "image": "images/Latanoprost.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Loteprednol (lotemax)",
+    "image": "images/Loteprednol (Lotemax).webp",
+    "aliases": []
+  },
+  {
+    "name": "Meibo",
+    "image": "images/Meibo.webp",
+    "aliases": []
+  },
+  {
+    "name": "Moxifloxacin (vigamox)",
+    "image": "images/Moxifloxacin (Vigamox).webp",
+    "aliases": []
+  },
+  {
+    "name": "Naproxen",
+    "image": "images/naproxen.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Neomycin Polymyxin Dexamethasone Drops (maxitrol)",
+    "image": "images/Neomycin-polymyxin-dexamethasone drops (Maxitrol).jpg",
+    "aliases": []
+  },
+  {
+    "name": "Neomycin Polymyxin Dexamethasone Ointment (maxitrol)",
+    "image": "images/Neomycin-polymyxin-dexamethasone ointment (Maxitrol).jpg",
+    "aliases": []
+  },
+  {
+    "name": "Netarsudil (rhopressa)",
+    "image": "images/Netarsudil (Rhopressa).webp",
+    "aliases": []
+  },
+  {
+    "name": "Netarsudil Latanoprost (rocklatan)",
+    "image": "images/Netarsudil-latanoprost (Rocklatan).jpeg",
+    "aliases": []
+  },
+  {
+    "name": "Ocusoft Lid Wipes",
+    "image": "images/Ocusoft lid wipes.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Ofloxacin (ocuflox)",
+    "image": "images/Ofloxacin (Ocuflox).webp",
+    "aliases": []
+  },
+  {
+    "name": "Omeprazole",
+    "image": "images/omeprazole.webp",
+    "aliases": []
+  },
+  {
+    "name": "Oxervate",
+    "image": "images/Oxervate.webp",
+    "aliases": []
+  },
+  {
+    "name": "Pilocarpine",
+    "image": "images/pilocarpine.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Polymyxin Trimethoprim (polytrim)",
+    "image": "images/Polymyxin-trimethoprim (Polytrim).webp",
+    "aliases": []
+  },
+  {
+    "name": "Prednisolone Acetate (pred Forte)",
+    "image": "images/Prednisolone acetate (Pred forte).webp",
+    "aliases": []
+  },
+  {
+    "name": "Preservative Free Refresh Tears",
+    "image": "images/Preservative Free Refresh Tears.webp",
+    "aliases": []
+  },
+  {
+    "name": "Prolensa",
+    "image": "images/Prolensa.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Refresh Gel Drops",
+    "image": "images/Refresh Gel Drops.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Refresh Tears",
+    "image": "images/Refresh Tears.avif",
+    "aliases": []
+  },
+  {
+    "name": "Restasis",
+    "image": "images/Restasis.webp",
+    "aliases": []
+  },
+  {
+    "name": "Sodium Chloride 5% Drop (muro)",
+    "image": "images/Sodium chloride 5% drop (Muro).jpg",
+    "aliases": []
+  },
+  {
+    "name": "Sodium Chloride 5% Ointment (muro)",
+    "image": "images/Sodium chloride 5% ointment (Muro).avif",
+    "aliases": []
+  },
+  {
+    "name": "Systane Ointment",
+    "image": "images/Systane ointment.webp",
+    "aliases": []
+  },
+  {
+    "name": "Tacrolimus",
+    "image": "images/tacrolimus.png",
+    "aliases": []
+  },
+  {
+    "name": "Timolol",
+    "image": "images/Timolol.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Timolol Dorzolamide (cosopt)",
+    "image": "images/Timolol-dorzolamide (Cosopt).webp",
+    "aliases": []
+  },
+  {
+    "name": "Tobramycin",
+    "image": "images/Tobramycin.avif",
+    "aliases": []
+  },
+  {
+    "name": "Tobramycin Dexamethasone Drops",
+    "image": "images/Tobramycin-dexamethasone drops.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Tobramycin Dexamethasone Ointment",
+    "image": "images/Tobramycin-dexamethasone ointment.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Valacyclovir (valtrex)",
+    "image": "images/Valacyclovir (Valtrex).jpg",
+    "aliases": []
+  },
+  {
+    "name": "Vevye",
+    "image": "images/Vevye.png",
+    "aliases": []
+  },
+  {
+    "name": "Vyzulta",
+    "image": "images/Vyzulta.webp",
+    "aliases": []
+  },
+  {
+    "name": "Warm Compresses",
+    "image": "images/Warm Compresses.jpg",
+    "aliases": []
+  },
+  {
+    "name": "Warm Compresses (towel)",
+    "image": "images/Warm Compresses (towel).jpg",
+    "aliases": []
+  },
+  {
+    "name": "Xiidra",
+    "image": "images/Xiidra.png",
+    "aliases": []
+  }
+]

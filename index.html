@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Treatment Handout Builder</title>
+  <link rel="stylesheet" href="styles.css?v=2" />
+  <script defer src="app.js?v=2"></script>
+</head>
+<body>
+  <header>
+    <h1>Treatment Handout Builder</h1>
+  </header>
+
+  <main class="layout">
+    <section class="controls">
+      <div class="medication-entry">
+        <label for="medSearch">Medication</label>
+        <input id="medSearch" list="medications" placeholder="Search or pick a medication..." autocomplete="off" />
+        <datalist id="medications"></datalist>
+
+        <div class="preview-card">
+          <img id="medImage" alt="Medication image" />
+          <div id="medName" class="med-name"></div>
+        </div>
+
+        <label for="directions">Directions (dose, route, frequency)</label>
+        <textarea id="directions" rows="2" placeholder="e.g., Take 1 tablet by mouth twice daily"></textarea>
+
+        <label for="instructions">Instructions (how to use)</label>
+        <textarea id="instructions" rows="3" placeholder="e.g., Take with food. Do not crush."></textarea>
+
+        <label for="notes">Notes / Warnings</label>
+        <textarea id="notes" rows="3" placeholder="e.g., Stop if rash occurs. Return if symptoms worsen."></textarea>
+
+        <button id="addMedBtn" type="button" class="primary">Add Medication to Plan</button>
+      </div>
+
+      <div class="actions">
+        <button id="clearBtn" type="button">Clear All</button>
+        <button id="printBtn" type="button" class="primary">Print Treatment Plan</button>
+      </div>
+    </section>
+
+    <section class="handout" id="handout">
+      <h2>Patient Treatment Plan</h2>
+      <div id="handoutContent">
+        <div class="empty-handout">
+          <p>Add medications to see your treatment plan here.</p>
+        </div>
+      </div>
+
+      <footer class="handout-footer">
+        <div>Date: <span id="today"></span></div>
+        <div class="small">This guide is for patient education and does not replace medical advice.</div>
+      </footer>
+    </section>
+  </main>
+</body>
+</html>
+
+
